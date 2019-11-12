@@ -1,0 +1,5 @@
+           #totalbody{margin-top:-40px;margin-left:20px;height:500px;width:980px;background-image:url(tic\ tac\ toe.jpg);background-repeat: no-repeat;background-size: 1300px;;padding-left:350px;padding-top:180px;;object-fit:contain}
+           .box{height:57px;width: 50px;border:1px black solid;padding-left:30px;font-size:45px;}   
+         #head{height:30px;width: 173px;border: 1px black solid;font-size:20px;padding-left:80px;padding-top: 6px;margin-left: 1px;
+            color: black;background-blend-mode: saturation;font-family:Arial, Helvetica, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+           #resetgame{height:40px;width:70px;font-size: 20px;margin-left: 90px;margin-top:10px;background-color: darkgray}
